@@ -1,2 +1,4 @@
-package com.jamila.gestionDeStock.model;public class LigneCommandeClient {
+package com.jamila.gestionDeStock.model;
+
+public class LigneCommandeClient {
 }
